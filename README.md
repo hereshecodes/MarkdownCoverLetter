@@ -9,7 +9,7 @@
 #### Full Stack Software Developer
 ---
 To :
-Hiring Manager 
+Hiring Manager / Kelly / Rafe / Owlbert 🦉
 
 July 19th, 2022
 
