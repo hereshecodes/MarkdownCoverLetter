@@ -5,6 +5,7 @@
 #### :phone: 479-285-0861 
 #### :email: daniellehoopes1@gmail.com 
 #### [LinkedIn](https://www.linkedin.com/in/daniellehoopes/)
+#### [My Current Website/Redesign Coming](https://hereshecodes.com)
 ---
 #### Full Stack Software Developer
 ---
