@@ -40,7 +40,6 @@ My current work is in .NET Core on a team with one Senior Dev, myself and two Mo
 
 #### Op! Here I am!
 
- :pushpin: 
  - I hail from the Deep South so I can give you a butter-induced heart attack with my cooking
  - I did not have a computer until college
  - I am a devoted Fallout fan 
